@@ -6,6 +6,6 @@ Lisp implementations.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/pcostanza/closer-mop.git |
-| commit  | 99b537f                                         |
+| commit  | f69bd9c                                         |
 | systems | closer-mop                                      |
 |---------+-------------------------------------------------|
